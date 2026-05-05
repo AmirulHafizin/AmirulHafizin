@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I am a technologist and educator with a multidisciplinary background in Computer Science and Mechatronics Engineering Technology.
+I am a technologist and educator with a multidisciplinary background in Master's Degree in Computer Science and Bachelor of Mechatronics Engineering Technology with Honours.
 
 I am passionate about teaching, continuous learning, and applying Artificial Intelligence in real-world and educational contexts. I enjoy translating complex technical concepts into structured and meaningful learning experiences.
 
