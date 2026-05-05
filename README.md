@@ -1,6 +1,6 @@
 # Hi, I'm Amirul Hafizin 👋
 
-🎓 MSc Computer Science | Mechatronics Engineering Technology  
+🎓 MSc Computer Science |  BETech (Hons.) Mechatronics
 🤖 AI | Programming | Robotics | Data Science | Mathematics  
 📍 Open to Lecturer / Instructor Opportunities  
 
