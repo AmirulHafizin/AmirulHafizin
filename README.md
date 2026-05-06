@@ -15,7 +15,7 @@ Currently, I am open to opportunities in teaching, research, and academic develo
 
 ---
 
-## 🧠 Interests
+## 🧠 Interests & Expertise
  • Artificial Intelligence
  • Data Science 
  • Robotics & Automation 
